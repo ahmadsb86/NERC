@@ -1,6 +1,3 @@
-# Nerc Code Version Managing
-This repo is meant for version managing our robot's code for the NERC competition.
-
 # Current Version
 Full Gyro route w/ front sonar for timing turns
 
