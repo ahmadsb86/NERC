@@ -8,7 +8,8 @@ This github repo is a collection and backup of all our code for the NERC robotic
 # 🗨️ Abbreviations and terminology used
 - All segments of the entire track have been labelled from A to F as shown in the diagram with the red text
 - All corners are named by the two segments they goin as shown in the diagram with the green text
-![diagram](https://github.com/ahmadsb86/NERC/assets/33711947/6ca88d35-068f-4aca-b06e-4da3d7d582bd)
+- 
+![diagram](https://github.com/ahmadsb86/NERC/assets/33711947/6ca88d35-068f-4aca-b06e-4da3d7d582bd  | width=100)
 
 
 # I1 (Implemented)
