@@ -15,9 +15,10 @@ This github repo is a collection and backup of all our code for the NERC robotic
 <img src="https://github.com/ahmadsb86/NERC/assets/33711947/6ca88d35-068f-4aca-b06e-4da3d7d582bd" width="500"  />
 
 
+<br>
+<br><br><br>
 
-
-
+```
   _____                 _                           _           _                 _      
 
  |_   _|               | |                         | |         | |               | |     
@@ -28,7 +29,7 @@ This github repo is a collection and backup of all our code for the NERC robotic
                  | |                                                                     
                  |_|
 
-
+```
 
 # I1 (Implemented)
 
@@ -155,8 +156,8 @@ the power and influence of its monarchs in shaping the nation's identity
 
 **Known Issues**: 
 
-
-
+<br><br><br><br><br>
+```
   ______     _                    _____    _                
 
  |  ____|   | |                  |_   _|  | |               
@@ -164,6 +165,7 @@ the power and influence of its monarchs in shaping the nation's identity
  |  __| | | | __| | | | '__/ _ \   | | / _` |/ _ \/ _` / __|
  | |  | |_| | |_| |_| | | |  __/  _| || (_| |  __/ (_| \__ \
  |_|   \__,_|\__|\__,_|_|  \___| |_____\__,_|\___|\__,_|___/
+```
 
 # I4
 
